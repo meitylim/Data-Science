@@ -1,2 +1,2 @@
 # Data-Science
-Mini Project (Digital Skola)
+Mini Project (IBM - Coursera)
